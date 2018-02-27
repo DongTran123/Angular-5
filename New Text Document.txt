@@ -14,4 +14,5 @@ implementation.
 Consider Listing 6-3 and Listing 6-4. The first uses concrete terms to communicate
 the fuel level of a vehicle, whereas the second does so with the abstraction of percentage.
 In the concrete case you can be pretty sure that these are just accessors of variables. In the
-abstract case you have no clue at all about the form of the data.
+abstract case you have no clue at all about the form of the data.   
+1
